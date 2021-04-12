@@ -1,6 +1,6 @@
 # docs.swift.org
 
-#About Repository
+# About Repository
 
 This repository will be defining all the lessions from (https://docs.swift.org/swift-book/), 
 (Apple's official learning guide for Swift programming language)
