@@ -3,5 +3,6 @@
     <pages>
         <page name='4-Collection Types'/>
         <page name='5-Control Flows'/>
+        <page name='6-Functions'/>
     </pages>
 </playground>
