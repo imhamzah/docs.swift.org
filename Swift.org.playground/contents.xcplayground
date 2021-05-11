@@ -6,5 +6,6 @@
         <page name='6-Functions'/>
         <page name='7-Closures'/>
         <page name='8-Enumerations'/>
+        <page name='9-Structs &amp; Classes'/>
     </pages>
 </playground>
